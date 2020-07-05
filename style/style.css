@@ -1,0 +1,242 @@
+*{
+    margin: 0;
+    padding: 0px;
+}
+.nav-box{
+    position: -webkit-sticky;
+    position: sticky;
+    top: 0;
+    width: 100%;
+}
+.icon{
+    
+    color: red;
+    font-family: cursive;
+    font-size: 20px;
+    padding: 20px;
+    
+}
+h1.logo{
+    float: left;
+    text-align: center;
+    color: red;
+    bottom: 5px;
+}
+
+.icon-list{
+    text-align: right;
+    word-spacing: 15px;
+    border-style: none;
+    padding: 20px;
+    background-color: lightgrey;
+}
+
+.icon-list a{
+    text-decoration: none;
+    text-decoration-style: none;
+}
+.container-header{
+    margin: 0px;
+    padding: 0px;
+    width: 100%;
+}
+.banner{
+    position: relative;
+    width: 100%;
+}
+.banner img{
+    float: right;
+    margin: 0px;
+}
+
+h1.hunarpro{
+    position: absolute;
+    margin-top: 20%;
+    width: 50%;
+    left: 20%;
+    font-size: 100px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+h3.web{
+    position: absolute;
+    margin-top: 35%;
+    width: 50%;
+    left: 20%;
+    font-size: 20px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.scroll{
+    position: absolute;
+    margin-top: 45%;
+    margin-left: 50%;
+    clear: both;
+}
+.scroll a{
+    text-decoration: none;
+    color: white;
+}
+.scroll p img{
+    background-color: rgba(0, 0, 0, 0.3);
+}
+.about{
+    padding-top: 10px;
+    padding-left: 5px;
+
+}
+.aboutimg{
+    margin-left: 43%;
+}
+h1.arrow{
+    margin: 30px;
+    padding-top: 10px;
+    text-align: center;
+}
+.about p{
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 50px 25%;
+    text-align: center;
+    
+}
+.abox{
+    background-color: #E04343;
+    padding-bottom: 30px;
+    clear: right;
+    margin-top: 50px;
+}
+.about a{
+    text-decoration: none;
+    color: yellow;
+}
+.row{
+    content: " ";
+    clear: both;
+    margin-left: 100px;
+}
+.column{
+    float: left;
+    width: 33.33%;
+    height: 400px;
+}
+.photo-ser{
+    width: 150px;
+    height: 150px;
+    text-align: center;
+    margin-left: 95px;
+    margin-top: 75px;
+    border: 1px solid #E04343;
+    border-radius: 50%;
+}
+.photo-ser i{
+    box-sizing: content-box;
+    margin-top: 42px;
+    color: #E04343;
+}
+.text-ser{
+    text-align: center;
+    padding: 5px;
+    margin: 5px;
+    width: 350px;
+    height: 112px;
+}
+.color-bg{
+    background: #E04343;
+}
+.row-about{
+    content: " ";
+    clear: both;
+}
+.about-image {
+    height: 400px;
+    background-size: cover;
+}
+.column-about{
+    float: left;
+    width: 50%;
+    height: 400px;
+}
+
+.about-text{
+    background-color: #E04343;
+    color: white;
+}
+.about-text h6{
+    font-size: xx-large;
+    margin: 50px;
+}
+.about-text p{
+    font-size: large;
+    margin: 50px;
+}
+.about-text-2{
+    background-color: white;
+}
+.about-text-2 h6{
+    color: darkgray;
+    font-size: xx-large;
+    margin: 50px;
+}
+.about-text-2 p{
+    font-size: large;
+    margin: 50px;
+}
+.about-text a{
+    margin: 50px;
+    text-decoration: none;
+    color: white;
+    border: 1px solid white;
+    padding: 3px;
+    font-size: x-large;
+}
+.about-text-2 a{
+    margin: 50px;
+    text-decoration: none;
+    color: darkgray;
+    border: 1px solid darkgray;
+    padding: 3px;
+    font-size: x-large;
+}
+.container-contact{
+    margin-top: 450px;
+}
+.container-foo{
+    width: 100%;
+    height: 100px;
+}
+.contact-form form{
+    margin-left: 20px;
+    text-align: center;
+    padding-top: 50px;
+}
+.contact1 h1{
+    text-align: center;
+    color: #E04343;
+}
+.contact-form input{
+    border: 1px solid darkgray;
+    padding: 5px;
+    margin: 5px;
+}
+.contact-form input:hover{
+    border: 2px solid greenyellow;
+}
+.contact-form textarea{
+    width:529px;
+    height: 200px;
+    border: 1px solid darkgray;
+    padding: 3px;
+}
+.contact-form textarea:hover{
+    border: 2px solid #E04343;
+}
+.foo p{
+    text-align: center;
+    background-color: darkgray;
+    padding-top: 50px;
+    height: 50px;
+}
+.foo a{
+    text-decoration: none;
+    color: #E04343;
+}
+
+
